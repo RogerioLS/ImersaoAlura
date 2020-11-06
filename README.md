@@ -45,5 +45,5 @@ Teste novos modelos de Machine Learning e aprenda a escolher o mais adequado.
 Você fez a análise exploratória dos dados do ENEM, tirou diversas conclusões e até criou um modelo de Machine Learning. Todo esse trabalho precisa ser resumido de forma objetiva e clara. Aprenda o que é Storytelling e organize suas conclusões criando um relatório incrível para seu portfólio.
 
 <p align="center"> 
-<img src="https://media.giphy.com/media/Oegx4axARIBs1GD46x/giphy.gif">
+<img src="https://media.giphy.com/media/vA4EnqvJxDv2g/giphy.gif">
 </p>
