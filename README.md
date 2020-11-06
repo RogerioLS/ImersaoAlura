@@ -4,7 +4,7 @@
 
 Vamos explorar base de dados do sistema educacional, criar um modelo de Machine Learning utilizando o Python e as principais bibliotecas na área de Data Science. Essa foi a propósta da **alura** com sua inersão de 5 dias seguidos, a seguir veja o que foi explorado.
 
-<img src="aulaum.png" alt="drawing" width="75"/>
+<img src="aulaUm.png" alt="drawing" width="75"/>
 
 ### Dia 1
 
