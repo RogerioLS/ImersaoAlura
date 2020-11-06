@@ -12,7 +12,7 @@ Vamos explorar base de dados do sistema educacional, criar um modelo de Machine 
 
 Faça sua primeira análise de dados e já tire suas próprias conclusões criando gráficos e analisando algumas estatísticas.
 
-<img src="auladois.png" alt="drawing" width="75"/>
+<img src="aulaDois.png" alt="drawing" width="75"/>
 
 ### Dia 2
 
@@ -20,7 +20,7 @@ Faça sua primeira análise de dados e já tire suas próprias conclusões crian
 
 Entenda o que é e avance sua análise exploratória de dados criando novas visualizações que ajudam a entender estatísticas mais avançadas.
 
-<img src="aulatres.png" alt="drawing" width="75"/>
+<img src="aulaTres.png" alt="drawing" width="75"/>
 
 ### Dia 3
 
@@ -28,7 +28,7 @@ Entenda o que é e avance sua análise exploratória de dados criando novas visu
 
 Entenda o que é Machine Learning e crie seu primeiro modelo de capaz de prever notas.
 
-<img src="aulaquatro.png" alt="drawing" width="75"/>
+<img src="aulaQuatro.png" alt="drawing" width="75"/>
 
 ### Dia 4
 
@@ -36,7 +36,7 @@ Entenda o que é Machine Learning e crie seu primeiro modelo de capaz de prever 
 
 Teste novos modelos de Machine Learning e aprenda a escolher o mais adequado.
 
-<img src='aulacinco.png' alt="drawing" width="75">
+<img src='aulaCinco.png' alt="drawing" width="75">
 
 ### Dia5
 
